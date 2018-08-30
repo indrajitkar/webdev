@@ -1,8 +1,8 @@
-“Powered by IIS”intitle:"Directory Listing For /" +
 
-inurl:webdav tomcatintitle:"Directory Listing For /" +
 
-inurl:webdav
+
+
+
 
 inurl:*.edu/*.asp 
 
